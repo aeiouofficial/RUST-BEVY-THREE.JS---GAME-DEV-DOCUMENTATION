@@ -1,12 +1,10 @@
-<p align="center">
-  # "Rust, Bevy, and Three.js Game Development Documentation"
-</p>
-<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/22304546-0780-47a5-a7ac-8f7b4158ec44" />
+
+
 
 # Rust + Bevy + Three.js Game Development Documentation
 
 > A professional documentation hub for audited MMO creative-mode and MMORPG equipment-system implementation blueprints.
-
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/22304546-0780-47a5-a7ac-8f7b4158ec44" />
 [![Documentation](https://img.shields.io/badge/type-documentation-blue)](#)
 [![Rust](https://img.shields.io/badge/Rust-backend-orange)](#)
 [![Bevy](https://img.shields.io/badge/Bevy-0.15-purple)](#)
