@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/readme-hero.png" alt="Rust, Bevy, and Three.js Game Development Documentation hero" width="100%" />
+  # "Rust, Bevy, and Three.js Game Development Documentation"
 </p>
 <img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/22304546-0780-47a5-a7ac-8f7b4158ec44" />
 
