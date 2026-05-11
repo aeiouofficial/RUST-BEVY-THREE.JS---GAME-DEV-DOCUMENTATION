@@ -1,6 +1,7 @@
 <p align="center">
   <img src="assets/readme-hero.png" alt="Rust, Bevy, and Three.js Game Development Documentation hero" width="100%" />
 </p>
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/22304546-0780-47a5-a7ac-8f7b4158ec44" />
 
 # Rust + Bevy + Three.js Game Development Documentation
 
@@ -15,6 +16,7 @@
 This repository is a documentation-first game development reference package. It collects two detailed, audited implementation guides for building multiplayer/MMO-adjacent systems with a Rust + Bevy backend and a Three.js + TypeScript frontend.
 
 It is intended for reviewers, recruiters, collaborators, and implementers who want to understand the architecture, technical scope, correction history, and implementation path without digging through a raw note dump.
+<img width="2200" height="1200" alt="image" src="https://github.com/user-attachments/assets/a1c9f119-0c01-4619-8820-aa36baa62306" />
 
 ---
 
@@ -204,7 +206,8 @@ The image below is a single-page overview you can use in a project page, portfol
 
 ---
 
-## Recruiter / reviewer notes
+<img width="1800" height="2400" alt="image" src="https://github.com/user-attachments/assets/6a00d22a-88f8-4f42-8eee-f6ec4b1b272f" />
+
 
 This repository demonstrates more than isolated snippets. It shows:
 
@@ -214,7 +217,6 @@ This repository demonstrates more than isolated snippets. It shows:
 - attention to validation, persistence, testing, and deployment concerns;
 - the discipline to document assumptions and fixes instead of hiding them.
 
-For portfolio use, this README should be treated as the public-facing entrypoint, while the two long Markdown guides serve as the detailed technical appendix.
 
 ---
 
